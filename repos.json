@@ -1,0 +1,225 @@
+{
+ "AltStackMail": [
+  {
+   "id": "mail",
+   "name": "Vigil Mail",
+   "folder": "products/mail"
+  },
+  {
+   "id": "calendar",
+   "name": "Vigil Calendar",
+   "folder": "products/calendar"
+  }
+ ],
+ "cohnemail": [
+  {
+   "id": "mail",
+   "name": "Vigil Mail",
+   "folder": "products/mail"
+  }
+ ],
+ "AltStackWarehouse": [
+  {
+   "id": "drive",
+   "name": "Vigil Drive",
+   "folder": "products/drive"
+  }
+ ],
+ "AltStackSearch": [
+  {
+   "id": "search",
+   "name": "Vigil Search",
+   "folder": "products/search"
+  }
+ ],
+ "Artemisearch": [
+  {
+   "id": "search",
+   "name": "Vigil Search",
+   "folder": "products/search"
+  }
+ ],
+ "amerikasocial": [
+  {
+   "id": "social",
+   "name": "Vigil Social",
+   "folder": "products/social"
+  }
+ ],
+ "amerikaios": [
+  {
+   "id": "social",
+   "name": "Vigil Social",
+   "folder": "products/social"
+  }
+ ],
+ "amerikaandroid": [
+  {
+   "id": "social",
+   "name": "Vigil Social",
+   "folder": "products/social"
+  }
+ ],
+ "AmerikaWindows": [
+  {
+   "id": "social",
+   "name": "Vigil Social",
+   "folder": "products/social"
+  }
+ ],
+ "AmerikaLinux": [
+  {
+   "id": "social",
+   "name": "Vigil Social",
+   "folder": "products/social"
+  }
+ ],
+ "amerikamacos": [
+  {
+   "id": "social",
+   "name": "Vigil Social",
+   "folder": "products/social"
+  }
+ ],
+ "AmerikaOffice": [
+  {
+   "id": "office",
+   "name": "Vigil Office",
+   "folder": "products/office"
+  },
+  {
+   "id": "write",
+   "name": "Vigil Write",
+   "folder": "products/write"
+  },
+  {
+   "id": "sheets",
+   "name": "Vigil Sheets",
+   "folder": "products/sheets"
+  },
+  {
+   "id": "slides",
+   "name": "Vigil Slides",
+   "folder": "products/slides"
+  }
+ ],
+ "AmerikaEngine": [
+  {
+   "id": "engine",
+   "name": "Vigil Engine",
+   "folder": "products/engine"
+  }
+ ],
+ "AmerikaRender": [
+  {
+   "id": "render",
+   "name": "Vigil Render",
+   "folder": "products/render"
+  }
+ ],
+ "AmerikaSprite": [
+  {
+   "id": "sprite",
+   "name": "Vigil Sprite",
+   "folder": "products/sprite"
+  }
+ ],
+ "AmerikaBox": [
+  {
+   "id": "box",
+   "name": "Vigil Box",
+   "folder": "products/box"
+  }
+ ],
+ "GameProducer": [
+  {
+   "id": "producer",
+   "name": "Vigil Game Producer",
+   "folder": "products/producer"
+  }
+ ],
+ "lookout": [
+  {
+   "id": "lookout",
+   "name": "Vigil Lookout",
+   "folder": "products/lookout"
+  }
+ ],
+ "artemisprompter": [
+  {
+   "id": "prompter",
+   "name": "Vigil Prompter",
+   "folder": "products/prompter"
+  }
+ ],
+ "artemismind": [
+  {
+   "id": "mind",
+   "name": "Vigil Mind",
+   "folder": "products/mind"
+  }
+ ],
+ "zephyrrentals": [
+  {
+   "id": "rentals",
+   "name": "Vigil Rentals",
+   "folder": "products/rentals"
+  }
+ ],
+ "F-M-Journal": [
+  {
+   "id": "journal",
+   "name": "Vigil Journal",
+   "folder": "products/journal"
+  }
+ ],
+ "banshees": [
+  {
+   "id": "banshees",
+   "name": "Vigil Banshees",
+   "folder": "products/banshees"
+  }
+ ],
+ "MakOS": [
+  {
+   "id": "os",
+   "name": "Vigil OS",
+   "folder": "products/os"
+  }
+ ],
+ "AmerikaVenture": [
+  {
+   "id": "venture",
+   "name": "Vigil Venture",
+   "folder": "products/venture"
+  }
+ ],
+ "cohnsoftassets": [
+  {
+   "id": "assets",
+   "name": "Vigil Assets",
+   "folder": "products/assets"
+  }
+ ],
+ "ios27icons": [
+  {
+   "id": "iosicons",
+   "name": "Vigil iOS Icons",
+   "folder": "products/iosicons"
+  }
+ ],
+ "vigilicons": [
+  {
+   "id": "icons",
+   "name": "Vigil Icons",
+   "folder": "products/icons"
+  }
+ ],
+ "vigilmacos": [
+  {
+   "id": "os",
+   "name": "Vigil OS",
+   "folder": "products/os"
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+[
+ {
+  "id": "vigiltech",
+  "name": "VigilTech",
+  "folder": "products/vigiltech",
+  "repos": []
+ },
+ {
+  "id": "mail",
+  "name": "Vigil Mail",
+  "folder": "products/mail",
+  "repos": [
+   "AltStackMail",
+   "cohnemail"
+  ]
+ },
+ {
+  "id": "calendar",
+  "name": "Vigil Calendar",
+  "folder": "products/calendar",
+  "repos": [
+   "AltStackMail"
+  ]
+ },
+ {
+  "id": "drive",
+  "name": "Vigil Drive",
+  "folder": "products/drive",
+  "repos": [
+   "AltStackWarehouse"
+  ]
+ },
+ {
+  "id": "social",
+  "name": "Vigil Social",
+  "folder": "products/social",
+  "repos": [
+   "amerikasocial",
+   "amerikaios",
+   "amerikaandroid",
+   "AmerikaWindows",
+   "AmerikaLinux",
+   "amerikamacos"
+  ]
+ },
+ {
+  "id": "lookout",
+  "name": "Vigil Lookout",
+  "folder": "products/lookout",
+  "repos": [
+   "lookout"
+  ]
+ },
+ {
+  "id": "notes",
+  "name": "Vigil Notes",
+  "folder": "products/notes",
+  "repos": []
+ },
+ {
+  "id": "producer",
+  "name": "Vigil Game Producer",
+  "folder": "products/producer",
+  "repos": [
+   "GameProducer"
+  ]
+ },
+ {
+  "id": "engine",
+  "name": "Vigil Engine",
+  "folder": "products/engine",
+  "repos": [
+   "AmerikaEngine"
+  ]
+ },
+ {
+  "id": "render",
+  "name": "Vigil Render",
+  "folder": "products/render",
+  "repos": [
+   "AmerikaRender"
+  ]
+ },
+ {
+  "id": "sprite",
+  "name": "Vigil Sprite",
+  "folder": "products/sprite",
+  "repos": [
+   "AmerikaSprite"
+  ]
+ },
+ {
+  "id": "box",
+  "name": "Vigil Box",
+  "folder": "products/box",
+  "repos": [
+   "AmerikaBox"
+  ]
+ },
+ {
+  "id": "assets",
+  "name": "Vigil Assets",
+  "folder": "products/assets",
+  "repos": [
+   "cohnsoftassets"
+  ]
+ },
+ {
+  "id": "give",
+  "name": "Vigil Give",
+  "folder": "products/give",
+  "repos": []
+ },
+ {
+  "id": "journal",
+  "name": "Vigil Journal",
+  "folder": "products/journal",
+  "repos": [
+   "F-M-Journal"
+  ]
+ },
+ {
+  "id": "search",
+  "name": "Vigil Search",
+  "folder": "products/search",
+  "repos": [
+   "AltStackSearch",
+   "Artemisearch"
+  ]
+ },
+ {
+  "id": "office",
+  "name": "Vigil Office",
+  "folder": "products/office",
+  "repos": [
+   "AmerikaOffice"
+  ]
+ },
+ {
+  "id": "write",
+  "name": "Vigil Write",
+  "folder": "products/write",
+  "repos": [
+   "AmerikaOffice"
+  ]
+ },
+ {
+  "id": "sheets",
+  "name": "Vigil Sheets",
+  "folder": "products/sheets",
+  "repos": [
+   "AmerikaOffice"
+  ]
+ },
+ {
+  "id": "slides",
+  "name": "Vigil Slides",
+  "folder": "products/slides",
+  "repos": [
+   "AmerikaOffice"
+  ]
+ },
+ {
+  "id": "prompter",
+  "name": "Vigil Prompter",
+  "folder": "products/prompter",
+  "repos": [
+   "artemisprompter"
+  ]
+ },
+ {
+  "id": "mind",
+  "name": "Vigil Mind",
+  "folder": "products/mind",
+  "repos": [
+   "artemismind"
+  ]
+ },
+ {
+  "id": "rentals",
+  "name": "Vigil Rentals",
+  "folder": "products/rentals",
+  "repos": [
+   "zephyrrentals"
+  ]
+ },
+ {
+  "id": "banshees",
+  "name": "Vigil Banshees",
+  "folder": "products/banshees",
+  "repos": [
+   "banshees"
+  ]
+ },
+ {
+  "id": "os",
+  "name": "Vigil OS",
+  "folder": "products/os",
+  "repos": [
+   "MakOS",
+   "vigilmacos"
+  ]
+ },
+ {
+  "id": "venture",
+  "name": "Vigil Venture",
+  "folder": "products/venture",
+  "repos": [
+   "AmerikaVenture"
+  ]
+ },
+ {
+  "id": "icons",
+  "name": "Vigil Icons",
+  "folder": "products/icons",
+  "repos": [
+   "vigilicons"
+  ]
+ },
+ {
+  "id": "iosicons",
+  "name": "Vigil iOS Icons",
+  "folder": "products/iosicons",
+  "repos": [
+   "ios27icons"
+  ]
+ },
+ {
+  "id": "account",
+  "name": "Vigil Account",
+  "folder": "products/account",
+  "repos": []
+ }
+]
